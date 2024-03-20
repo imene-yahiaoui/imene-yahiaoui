@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋,I'm  Imene Yahiaoui Ikhlef 👩‍💻</h1>
+<h1 align="center">Hello 👋,I'm  Imene Yahiaoui Ikhlef </h1>
 
 <h3 align="center">Web Developer specialized in JavaScript - focusing on React</h3>
 
